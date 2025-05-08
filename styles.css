@@ -1,6 +1,7 @@
-body{
-  padding: 25px;
-}
-.title {
-	color: #5C6AC4;
-}
+body {
+            background: #000;
+            color: #fff;
+            font-family: monospace;
+            white-space: pre;
+            margin: 20px;
+        }
